@@ -1,0 +1,23 @@
+{
+  "About": {
+    "mains": ["img/About01.jpg","img/About02.jpg","img/About03.jpg","img/About04.jpg"],
+    "problem": "A blurb for about.",
+    "solution":"Use a second blurb.",
+    "projectText": "<p>Text about this website.</p>",
+    "tools": ""
+  },
+  "Project 1": {
+    "mains": ["img/project01_01.jpg", "img/project01_02.jpg", "img/project01_03.jpg", "http://www.youtube.com/v/HGV3yV9q4Q4"],
+    "problem": "Something about the problem you are trying to solve.",
+    "solution":"A couple sentences describing the solution.",
+    "projectText": "<p>You can put anything in here, really. Designed for a comprehensive story about the project</p>",
+    "tools": ["C++","Squeak","Lua","jquery","HTML","websockets","other skills or tools"]
+  },
+  "Project 2": {
+    "mains": ["img/project02_01.jpg", "img/project02_02.jpg", "img/project02_03.jpg", "http://www.youtube.com/v/tkEV14A9KWw"],
+    "problem": "Insert some sentences that describe the problem for this project.",
+    "solution":"Please, do tell how clever you are! Only a couple pithy sentences will do.",
+    "projectText": "<p>You can put anything in here, really. Designed for a comprehensive story about the project. HTML is fine, of course</p>",
+    "tools": ["Ruby","Clojure","Python","MySQL","HTML","other skills or tools"]
+  }
+}

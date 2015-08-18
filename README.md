@@ -14,3 +14,6 @@ The first item in the `projects.json` file is the *About* which can be structure
 
 If you want to change the fonts, you'll need to change the links in the `index.html` header, as well as the font-family styles in `css/main.css`
 
+Example images are used with permission from http://www.unsplash.com
+
+See this portfolio in action at http://yowstar.com/pftemp/

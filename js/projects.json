@@ -3,21 +3,25 @@
     "mains": ["img/About01.jpg","img/About02.jpg","img/About03.jpg","img/About04.jpg"],
     "problem": "A blurb for about.",
     "solution":"Use a second blurb.",
-    "projectText": "<p>Text about this website.</p>",
+    "projectText": "<p>Text about this website. Maybe some contact info.</p><p>Donec consectetur pellentesque nisi sit amet elementum. Duis iaculis velit at eros dapibus vehicula. Vestibulum erat risus, rutrum ut vulputate eu, rhoncus ut dolor. Etiam pellentesque lobortis velit. Suspendisse arcu lacus, ornare in sollicitudin eget, hendrerit a neque. Donec ac justo in ante gravida mollis. Praesent scelerisque molestie risus sodales fringilla. Vivamus quis lorem in mauris pulvinar tempor. Nam in nisl vel neque commodo semper sed eu nibh. Duis cursus lectus vel odio posuere quis aliquet quam blandit. Maecenas neque nibh, sollicitudin posuere tempus adipiscing, molestie vel nibh. Mauris porttitor, lacus vitae aliquam aliquam, risus urna tempus elit, sit amet malesuada erat dolor iaculis mi. Donec quam sapien, adipiscing eget sodales vitae, blandit eu odio.</p>",
     "tools": ""
   },
   "Project 1": {
     "mains": ["img/project01_01.jpg", "img/project01_02.jpg", "img/project01_03.jpg", "http://www.youtube.com/v/HGV3yV9q4Q4"],
     "problem": "Something about the problem you are trying to solve.",
     "solution":"A couple sentences describing the solution.",
-    "projectText": "<p>You can put anything in here, really. Designed for a comprehensive story about the project</p>",
+    "projectText": "<p>You can put anything in here, really. Designed for a comprehensive story about the project</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In erat mauris, faucibus quis pharetra sit amet, pretium ac libero. Etiam vehicula eleifend bibendum. Morbi gravida metus ut sapien condimentum sodales mollis augue sodales. Vestibulum quis quam at sem placerat aliquet. Curabitur a felis at sapien ullamcorper fermentum. Mauris molestie arcu et lectus iaculis sit amet eleifend eros posuere. Fusce nec porta orci.</p>",
     "tools": ["C++","Squeak","Lua","jquery","HTML","websockets","other skills or tools"]
   },
   "Project 2": {
     "mains": ["img/project02_01.jpg", "img/project02_02.jpg", "img/project02_03.jpg", "http://www.youtube.com/v/tkEV14A9KWw"],
     "problem": "Insert some sentences that describe the problem for this project.",
     "solution":"Please, do tell how clever you are! Only a couple pithy sentences will do.",
-    "projectText": "<p>You can put anything in here, really. Designed for a comprehensive story about the project. HTML is fine, of course</p>",
+    "projectText": "<p>You can put anything in here, really. Designed for a comprehensive story about the project. HTML is fine, of course.</p><p>Integer vitae neque odio, a sollicitudin lorem. Aenean orci mauris, tristique luctus fermentum eu, feugiat vel massa. Fusce sem sem, egestas nec vulputate vel, pretium sit amet mi. Fusce ut nisl id risus facilisis euismod. Curabitur et elementum purus. Duis tincidunt fringilla eleifend. Morbi id lorem eu ante adipiscing feugiat. Sed congue erat in enim eleifend dignissim at in nisl. Donec tortor mauris, mollis vel pretium vitae, lacinia nec sapien. Donec erat neque, ullamcorper tincidunt iaculis sit amet, pharetra bibendum ipsum. Nunc mattis risus ac ante consequat nec pulvinar neque molestie. Etiam interdum nunc at metus lacinia non varius erat dignissim. Integer elementum, felis id facilisis vulputate, ipsum tellus venenatis dui, at blandit nibh massa in dolor. Cras a ultricies sapien. Vivamus adipiscing feugiat pharetra.</p>",
     "tools": ["Ruby","Clojure","Python","MySQL","HTML","other skills or tools"]
   }
 }
+
+
+
+
